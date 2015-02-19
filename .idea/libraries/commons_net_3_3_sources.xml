@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="commons-net-3.3-sources">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Nerd Stuff/Java Libraries/commons-net-3.3-2014-12-28/commons-net-3.3/commons-net-3.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Nerd Stuff/Java Libraries/commons-net-3.3-2014-12-28/commons-net-3.3/commons-net-examples-3.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/Nerd Stuff/Java Libraries/commons-net-3.3-2014-12-28/commons-net-3.3/commons-net-3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
